@@ -56,6 +56,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codervipul775&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervipul775&layout=compact&langs_count=6&theme=dracula" height="150" />
+  
 </p>
 
 ---
@@ -64,6 +65,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=codervipul775&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <img src="https://github-profile-trophy.vercel.app?username=Albez0-An7h&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </p>
 
 ---
