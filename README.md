@@ -70,8 +70,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codervipul775&theme=dark&hide_border=false&border_radius=5" height="220" />
-  <img src="https://github-profile-trophy.vercel.app?username=codervipul775&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=codervipul775&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="220"/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=codervipul775&theme=dracula&no-frame=true&margin-w=10&margin-h=10" height="150"/>
 </p>
 
 ---
