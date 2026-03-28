@@ -71,7 +71,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=coddervipul775&theme=%7B%22backgroundColor%22%3A%22%2314532d%22%2C%22textColor%22%3A%22%23000000%22%2C%22accentColor%22%3A%22%23ffffff%22%2C%22borderColor%22%3A%22%23ffffff%22%2C%22waterColor%22%3A%22%23ffffff%22%2C%22streakColor%22%3A%22%23ffffff%22%7D)
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=codervipul775&theme=%7B%22backgroundColor%22%3A%22%2314532d%22%2C%22textColor%22%3A%22%23000000%22%2C%22accentColor%22%3A%22%23ffffff%22%2C%22borderColor%22%3A%22%23ffffff%22%2C%22waterColor%22%3A%22%23ffffff%22%2C%22streakColor%22%3A%22%23ffffff%22%7D)
 
 </div>
 
