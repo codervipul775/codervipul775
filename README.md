@@ -69,11 +69,11 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=codervipul775&theme=dark&hide_border=true&timezone=Asia/Kolkata" height="220"/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=codervipul775&theme=dracula&no-frame=true&margin-w=10&margin-h=10" height="150"/>
-</p>
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=QUBITABHAY&theme=%7B%22backgroundColor%22%3A%22%2314532d%22%2C%22textColor%22%3A%22%23000000%22%2C%22accentColor%22%3A%22%23ffffff%22%2C%22borderColor%22%3A%22%23ffffff%22%2C%22waterColor%22%3A%22%23ffffff%22%2C%22streakColor%22%3A%22%23ffffff%22%7D)
+
+</div>
 
 ---
 
